@@ -6,7 +6,7 @@ public class Main {
 
     static DinnerConstructor dc;
     static Scanner scanner;
-
+   //текст
     public static void main(String[] args) {
         dc = new DinnerConstructor();
         scanner = new Scanner(System.in);
