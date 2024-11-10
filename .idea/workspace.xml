@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45f9bf6c-fc6e-40b6-a885-04b213276926" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ConsoleApp" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/ConsoleApp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/First_project/First_project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Second_project/Second_project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepic_and_java_2022_tusk/Lesson2_Stepic_OOP/Lesson2_Stepic_OOP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepic_and_java_2022_tusk/Lesson3_Stepic_OOP/Lesson3_Stepic_OOP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepic_and_java_2022_tusk/Lesson4_Stepic_OOP/Lesson4_Stepic_OOP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepic_and_java_2022_tusk/Lesson5_Stepic_OOP/Lesson5_Stepic_OOP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepic_and_java_2022_tusk/programmers-day/programmers-day.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dinner-constructor" beforeDir="false" afterPath="$PROJECT_DIR$/dinner-constructor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dinner-constructor/dinner-constructor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea-start-master/idea-start-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-sprint2-hw/java-sprint2-hw.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/m1-t12-debug" beforeDir="false" afterPath="$PROJECT_DIR$/m1-t12-debug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m1-t12-debug/src/Ai92Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/m1-t12-debug/src/Ai92Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m1-t12-debug/src/Ai95Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/m1-t12-debug/src/Ai95Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m1-t12-hotkeys" beforeDir="false" afterPath="$PROJECT_DIR$/m1-t12-hotkeys" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m1-t12-hotkeys/src/Ai92Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/m1-t12-hotkeys/src/Ai92Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m1-t12-hotkeys/src/Ai95Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/m1-t12-hotkeys/src/Ai95Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m1-t12-hotkeys/src/PetrolCalculatorClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/m1-t12-hotkeys/src/PetrolCalculatorClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-list/shopping-list.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_math1/test_math1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/untitled.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2of8Fd593twQW4TlijxPcS7w5xw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Sergey/IdeaProjects"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45f9bf6c-fc6e-40b6-a885-04b213276926" name="Changes" comment="" />
+      <created>1731249166629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731249166629</updated>
+    </task>
+    <servers />
+  </component>
+</project>
